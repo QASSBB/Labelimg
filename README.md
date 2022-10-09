@@ -14,3 +14,7 @@
 ## PyQt5安裝完成後 直接輸入labelimg就可以執行了
 ![image](https://user-images.githubusercontent.com/79627981/194734031-1a131795-1901-4195-ae2e-50b9e9f64440.png)
 ### 輸入labelimg沒反應的話重開電腦試看看(重開沒辦法的話我暫時也沒想法)
+
+### 參考資料
+### https://youtu.be/l_TrGcN_p2M  
+### https://blog.gtwang.org/useful-tools/labelimg-graphical-image-annotation-tool-tutorial/?fbclid=IwAR2G4HAO4VXsC-Ckl9PKEvAQH7S8ebc3Fbg3_WFydBcGmxW0zmFg1DuBgQg
