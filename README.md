@@ -26,21 +26,10 @@
 ## 功能介紹及步驟 1.打開要做標籤黨的資料夾(就是那些瓦斯表圖片的資料夾) 2.變更標籤黨儲存的位置(看你想存哪) 3. 他有YOLO、CreateML、PascalVOC三種儲存格式，我們要選YOLO，因為它儲存的格式是txt檔，因為我們在用Yolo訓練時他就是要用txt格式才行
 ![image](https://user-images.githubusercontent.com/79627981/201094918-af03d715-c9fd-4275-8707-569185c7fb90.png)
 
-![image](https://user-images.githubusercontent.com/79627981/201093677-cd111584-85c4-4f63-b462-f735768664f8.png)
+## 然後就按鍵盤上的w，開始框，框完一個後輸入他的標籤(數字)，做完一張就儲存換下一張
+![image](https://user-images.githubusercontent.com/79627981/201096570-075cbaf4-b4c8-4a08-a1cf-77dd45998427.png)
+![image](https://user-images.githubusercontent.com/79627981/201097260-173ea526-f16a-4bd9-9842-34b64c13e56c.png)
 
-![image](https://user-images.githubusercontent.com/79627981/201093472-af558265-856b-4f75-a504-6584fbd5394c.png)
-
-![image](https://user-images.githubusercontent.com/79627981/194733956-b46be17d-d030-40d0-b976-952bf5eb4c43.png)
-
-## labelmg 安裝完後，在小黑輸入 pip install PyQt5
-![image](https://user-images.githubusercontent.com/79627981/194734001-349c36ad-cc55-426f-b23f-991c9db07da4.png)
-### 如果安裝不了PyQt5的話就去 https://www.riverbankcomputing.com/pypi/simple/pyqt5/ 安裝windows的版本
-### 之後一樣在小黑，輸入 pip install PyQt5-5.15.8.dev2209172313-cp37-abi3-win_amd64.whl
-
-
-## PyQt5安裝完成後 直接輸入labelimg就可以執行了
-![image](https://user-images.githubusercontent.com/79627981/194734031-1a131795-1901-4195-ae2e-50b9e9f64440.png)
-### 輸入labelimg沒反應的話重開電腦試看看(重開沒辦法的話我暫時也沒想法)
 
 ## 參考資料
 ### https://youtu.be/l_TrGcN_p2M  
