@@ -27,7 +27,7 @@
 ![image](https://user-images.githubusercontent.com/79627981/201094918-af03d715-c9fd-4275-8707-569185c7fb90.png)
 
 ## 然後就按鍵盤上的w，開始框，框完一個後輸入他的標籤(數字)，做完一張就儲存換下一張
-![image](https://user-images.githubusercontent.com/79627981/201096570-075cbaf4-b4c8-4a08-a1cf-77dd45998427.png)
+![image](https://user-images.githubusercontent.com/79627981/201097431-e9c81a2e-8c03-45ec-bcbf-0ede006b4a86.png)
 ![image](https://user-images.githubusercontent.com/79627981/201097260-173ea526-f16a-4bd9-9842-34b64c13e56c.png)
 
 
