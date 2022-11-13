@@ -1,4 +1,8 @@
 # 安裝流程
+
+## 先把python刪掉
+![image](https://user-images.githubusercontent.com/79627981/201532249-c035d9fa-0f2f-42b1-89f8-8cd80af56f93.png)
+
 ## https://www.python.org/downloads/release/python-370/ 
 ## 到上面這個網址下載python3.7，安裝時記得add to Path要勾
 ![image](https://user-images.githubusercontent.com/79627981/201091946-723811fc-e505-4f9c-b094-d766cab9858b.png)
